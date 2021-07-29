@@ -1,6 +1,3 @@
-# Cli Tool
-docopt
-
 # Required for Conversion
 telethon
 pyrogram
