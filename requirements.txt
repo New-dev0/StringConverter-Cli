@@ -1,0 +1,9 @@
+# Cli Tool
+docopt
+
+# Required for Conversion
+telethon
+pyrogram
+
+# for Decoration
+colorama
