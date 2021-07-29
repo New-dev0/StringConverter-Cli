@@ -2,5 +2,8 @@
 telethon
 pyrogram
 
+# For Configs
+python-decouple
+
 # for Decoration
 colorama
